@@ -1,4 +1,6 @@
 # Python-Dictionary
+![image](https://github.com/TheRonnie/Python-Dictionary-Using-Tkinter/assets/98576788/6a8538b8-f7cf-4dba-b130-04328a16e841)
+
  A simple English dictionary application built using Python and Tkinter.
 
 In my code is a Tkinter-based GUI application that serves as an English Dictionary. It provides functionality to add new words, find the meanings of existing words, update word meanings, and exit the application gracefully. Let's break down the functionality of each button:
