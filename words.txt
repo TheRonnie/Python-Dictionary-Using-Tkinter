@@ -1,0 +1,15 @@
+cat: a small carnivorous mammal with soft fur, a short snout, and retractable claws.
+dog: a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking or howling voice.
+car: a road vehicle, typically with four wheels, powered by an internal combustion engine or an electric motor and designed for the transportation of people or goods.
+book: a written or printed work consisting of pages glued or sewn together along one side and bound in covers.
+happy: feeling or showing pleasure or contentment.
+sad: feeling or showing sorrow; unhappy.
+hot: having a high degree of heat or a high temperature.
+cold: of or at a low or relatively low temperature, especially when compared with the human body.
+big: of considerable size or extent.
+small: of a size that is less than normal or usual.name:Naam
+rohan:Name
+
+ho:hi
+hi:Hello
+bye:tata
